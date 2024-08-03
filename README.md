@@ -1,17 +1,17 @@
 <h1>Hi 👋, I'm Aadel Asad</h1>
-<h3>A 20 y/o passionate web developer, and DevOps Engineer from Pakistan</h3>
+<h3>A 20 y/o web & app developer, and DevOps Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aa-del9&label=Profile%20views&color=0e75b6&style=flat" alt="aa-del9" /> </p>
 
 - 🔭 I’m currently working on **A React social media clone**
 
-- 🌱 I’m currently learning **NextTS14**
+- 🌱 I’m currently learning **NextJS14**
 
 - 👯 I’m looking to collaborate on **MERN stack/nextjs projects**
 
 - 🤝 I’m looking for help with **Open-source web projects**
 
-- 💬 Ask me about **Mern, nextjs, DevOps**
+- 💬 Ask me about **Mern, nextjs, react native, DevOps**
 
 - 📫 Reach me at **aadel.sheikh34@gmail.com**
 
