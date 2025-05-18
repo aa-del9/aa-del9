@@ -28,7 +28,7 @@ const aadel = {
       python: ["Flask"],
     },
     mobileApp: {
-      crossPlatform: ["React Native"],
+      crossPlatform: ["React Native", "Flutter"],
     },
     devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
     cloudServices: {
