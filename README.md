@@ -150,13 +150,7 @@ const aadel = {
 
   <h3>⚡ Recent GitHub Activity</h3>
 
-  <!--START_SECTION:activity-->
-
-1. ❌ Closed PR [#319](https://github.com/torahcalc/torahcalc/pull/319) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-2. 🎉 Merged PR [#1256](https://github.com/DenverCoder1/custom-icon-badges/pull/1256) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🎉 Merged PR [#323](https://github.com/torahcalc/torahcalc/pull/323) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-4. ❌ Closed PR [#1257](https://github.com/DenverCoder1/custom-icon-badges/pull/1257) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#199](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/199) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+<!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 </details>
