@@ -30,7 +30,7 @@ const aadel = {
     mobileApp: {
       crossPlatform: ["React Native", "Flutter"],
     },
-    devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+    devOps: ["Docker 🐳", "CI/CD", "Nginx", "GitHub Actions"],
     cloudServices: {
       aws: ["EC2", "S3", "Lambda", "CloudWatch", "CloudFront"],
     },
