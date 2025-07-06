@@ -2,7 +2,7 @@
 <p align="center"><em>FrontEnd Lead at <a href="https://oryns.co/">Oryns Solutions
 </a>
 </em> | 
-<em>Technical Lead at <a href="https://parhlai.com/">Parhlai!
+<em>Ex Technical Lead at <a href="https://parhlai.com/">Parhlai!
 </a>
 </em></p>
 <!-- <p align="center">
