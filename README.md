@@ -153,7 +153,7 @@ const aadel = {
   <!-- <h3>⚡ Recent GitHub Activity</h3> --!>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/aa-del9/shalmi-web/pull/16) in [aa-del9/shalmi-web](https://github.com/aa-del9/shalmi-web)
+1. 🎉 Merged PR [#16](https://github.com/aa-del9/shalmi-web/pull/16) in [aa-del9/shalmi-web](https://github.com/aa-del9/shalmi-web)
 <!--END_SECTION:activity-->
 
 </details>
