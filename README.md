@@ -1,4 +1,4 @@
-<h1 align="center">Hey! 👋 I'm Aadel Asad!</h1>
+<h1 align="center">Hey! 👋 I'm Aadel Asad.</h1>
 <p align="center">
   <em>Ex Technical Lead at <a href="https://parhlai.com/">Parhlai!
 </a>
